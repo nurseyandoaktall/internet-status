@@ -1,1 +1,5 @@
-{"timestamp":"2025-01-01T00:00:00Z","state":"ONLINE","check_interval_seconds":20}
+{
+  "timestamp": "2026-01-31T17:49:52.264484+00:00",
+  "state": "ONLINE",
+  "check_interval_seconds": 20
+}
