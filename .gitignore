@@ -1,0 +1,4 @@
+script.log
+*.log.backup
+*.save
+*.save.1
