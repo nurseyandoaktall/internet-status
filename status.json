@@ -1,8 +1,8 @@
 {
   "external": "online",
-  "last_success": "2026-06-07T15:15:00.902358+00:00",
+  "last_success": "2026-06-07T15:44:57.667656+00:00",
   "checks": {
-    "https://www.bbc.com": "ok",
-    "https://www.cloudflare.com": "fail"
+    "https://www.bbc.com": "fail",
+    "https://www.cloudflare.com": "ok"
   }
 }
